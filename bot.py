@@ -7,7 +7,7 @@ import os
 # ─────────────────────────────────────────────
 #  KONFİGÜRASYON  –  Buraya kendi değerlerini gir
 # ─────────────────────────────────────────────
-BOT_TOKEN        = "BOT_TOKEN_BURAYA"
+BOT_TOKEN        = "MTQ4NjA3NTY1NDczMzU2MTg5Nw.G-42AA.arb9jJbFU9u2-w1VExKcoc4I_vON27ZLrl4cpg"
 KAYITLI_ROL_ID   = 1484188685812629576   # kayıt tuşuna basılınca verilecek rol
 KAYITSIZ_ROL_ID  = 1484188685757972582   # başvurucu rolü
 ADMIN_KANAL_ID   = 1486072691172704276   # ← başvuruların düşeceği kanal ID'si
